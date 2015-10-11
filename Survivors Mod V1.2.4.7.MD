@@ -1,6 +1,5 @@
-# Current-Version
+# The Survivors Mod V1.2.4.7
 
-V1.2.4.7
 
 Changelog:
 1.2.4.7
