@@ -1,5 +1,4 @@
 # Current-Version
-View All Versions Since V1.2.4.7
 
 V1.2.4.7
 
